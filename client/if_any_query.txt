@@ -1,0 +1,5 @@
+command:
+npm run dev
+
+app runs then black page open but /register to see gesgistration form (http://localhost:5173/register)
+

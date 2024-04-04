@@ -1,0 +1,4 @@
+commands:
+For server start 
+npm start 
+(before run client(react app) make sure server(nodeserver) is on)
